@@ -1,3 +1,0 @@
-/home/sa/Загрузки/PR2-main/build/CMakeFiles/rebuild_cache.dir
-/home/sa/Загрузки/PR2-main/build/CMakeFiles/PR2.dir
-/home/sa/Загрузки/PR2-main/build/CMakeFiles/edit_cache.dir
